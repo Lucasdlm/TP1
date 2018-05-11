@@ -33,8 +33,10 @@
 
 /* Date: 2015-09-23 */
 
-#ifndef _BLINKY_H_
-#define _BLINKY_H_
+#ifndef PROJECTS_TP1_INC_TP1_H
+#define PROJECTS_TP1_INC_TP1_H
+
+#define TP1_6
 
 /*==================[inclusions]=============================================*/
 
